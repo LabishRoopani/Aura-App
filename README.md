@@ -110,6 +110,5 @@ Software Engineering Student | Flutter Developer | AI Enthusiast
 
 ### ⭐ If you like this project, don't forget to star the repository!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!+🚀" alt="Footer Typing SVG" />
 
 </div>
