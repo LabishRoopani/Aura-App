@@ -20,18 +20,6 @@ Aura is a modern Android application designed to provide a smooth, fast, and use
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/screen1.png" width="220"/>
-  <img src="screenshots/screen2.png" width="220"/>
-  <img src="screenshots/screen3.png" width="220"/>
-</p>
-
-> Replace these images with your actual app screenshots.
-
----
-
 ## ✨ Features
 
 ✅ Modern & Clean UI
@@ -52,11 +40,7 @@ Aura is a modern Android application designed to provide a smooth, fast, and use
 
 ### Latest APK
 
-👉 Download from the **Releases** section.
-
-```bash
-GitHub → Releases → Download APK
-```
+👉 Download the APK from the **Releases** section.
 
 ---
 
@@ -71,19 +55,6 @@ GitHub → Releases → Download APK
 
 ---
 
-## 📂 Project Structure
-
-```text
-lib/
-├── screens/
-├── widgets/
-├── services/
-├── models/
-└── main.dart
-```
-
----
-
 ## 🚀 Installation
 
 Clone the repository:
@@ -92,7 +63,7 @@ Clone the repository:
 git clone https://github.com/yourusername/aura-app.git
 ```
 
-Go to project directory:
+Navigate to the project:
 
 ```bash
 cd aura-app
@@ -104,7 +75,7 @@ Install dependencies:
 flutter pub get
 ```
 
-Run the app:
+Run the application:
 
 ```bash
 flutter run
@@ -116,7 +87,7 @@ flutter run
 
 - Dark Mode
 - Push Notifications
-- AI Features
+- AI Integration
 - Enhanced Security
 - Cloud Synchronization
 
@@ -128,11 +99,11 @@ flutter run
 
 Software Engineering Student | Flutter Developer | AI Enthusiast
 
-📧 Email: your-email@example.com
+📧 Contact: LabishRoopani
 
-💼 LinkedIn: your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/in/labish-roopani-09a0a6267/
 
-🌐 Portfolio: your-portfolio-link
+🌐 Portfolio: https://portfolio-eight-lyart-95.vercel.app/
 
 ---
 
