@@ -85,7 +85,6 @@ flutter run
 
 ## 📈 Future Improvements
 
-- Dark Mode
 - Push Notifications
 - AI Integration
 - Enhanced Security
